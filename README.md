@@ -1,6 +1,6 @@
 # Terms-of-service
 
-MaiFlava's contents are following under provisions.
+MaiFlava's contents are following under provisions. <br>
 You are using MaiFlava's contents in consideration of your agreement to these terms.
 
 ## Temporary
