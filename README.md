@@ -1,14 +1,12 @@
 # Terms-of-service
 
-
 No AI, reposting, or Profit.
 
 If you wanna use contact me and ask for permission.
 
 If the project has an individual license, the project follows their license.
 
-### Derived Content
-***
+## Derived Content
 #### License Inheritance
 Derived content is subject to the license of the original content from which it is derived.
 
