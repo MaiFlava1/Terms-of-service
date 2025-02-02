@@ -28,7 +28,7 @@ The final applicable terms are determined by the earliest (or root) original con
 
 ## Disclaimer
 #### No Warranty
-All content provided in this repository (including but not limited to code, documentation, media, and related materials) is offered "as is" without any warranties of any kind, either express or implied. This includes, but is not limited to, warranties of merchantability, fitness for a particular purpose, and non-infringement.
+All content provided by the author (including but not limited to code, documentation, media, and related materials) is offered "as is" without any warranties of any kind, either express or implied. This includes, but is not limited to, warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
 #### Limitation of Liability
 In no event shall the contributors, maintainers, or affiliated parties be held liable for any direct, indirect, incidental, special, exemplary, or consequential damages arising from the use of, or inability to use, any content provided in this repository.
