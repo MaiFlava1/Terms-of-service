@@ -12,4 +12,6 @@ If the project has an individual license, the project follows their license.
 ---
 - Derived content follows the original content license.
 - Derived content also follows its own license.
+- Duplicate or conflicting contexts are subject to the original content license.
 - If the original content is also derived content, repeat this.
+- If repeats end, that is the final license.
