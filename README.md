@@ -5,10 +5,8 @@ You are using MaiFlava's contents in consideration of your agreement to these te
 
 ## Temporary
 
-No AI, reposting, or Profit.
-
-If you wanna use contact me and ask for permission.
-
+No AI, reposting, or Profit. <br>
+If you wanna use contact me and ask for permission. <br>
 If the project has an individual license, the project follows their license.
 
 ## Derived Content
