@@ -1,5 +1,9 @@
 # Terms-of-service
 
+MaiFlava's contents are following under provisions
+
+## Temporary
+
 No AI, reposting, or Profit.
 
 If you wanna use contact me and ask for permission.
