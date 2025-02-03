@@ -79,4 +79,5 @@ The author referred to in this Terms of Service is **MaiFlava**.
 ### **Contact**
 
 For permissions, questions, or clarifications regarding this Terms of Service, please contact the author directly.
+Email: MaiFlava1@gmail.com
 
