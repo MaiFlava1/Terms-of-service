@@ -22,10 +22,9 @@ The author referred to in this Terms of Service is **MaiFlava**.
 
 ### **Temporary Restrictions**
 
-- **No AI, Reposting, or Commercial Use:**  
+- **No AI or Commercial Use:**  
   You are **prohibited** from using the author's content for:  
-  - Artificial Intelligence (AI) training or development purposes  
-  - Reposting without explicit permission  
+  - Artificial Intelligence (AI) training or development purposes   
   - Any activities intended for profit or commercial gain  
 
 - **Permission Requests:**  
