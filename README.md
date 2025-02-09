@@ -4,12 +4,6 @@ By using **the author's content**, you acknowledge and agree to the following te
 
 ---
 
-### **Author Information**
-
-The author referred to in this Terms of Service is **MaiFlava**.
-
----
-
 ### **General Terms**
 
 1. **Scope of Use:**  
@@ -20,14 +14,13 @@ The author referred to in this Terms of Service is **MaiFlava**.
 
 ---
 
-### **Restrictions**
+### **Temporary Restrictions**
 
-### AI & Commercial Use Restrictions
-- Your contributions **cannot** be used for:
-  - AI training or development purposes.
-  - Any activities intended for profit or commercial gain without explicit permission.
-
----
+- **No AI, Reposting, or Commercial Use:**  
+  You are **prohibited** from using the author's content for:  
+  - Artificial Intelligence (AI) training or development purposes  
+  - Reposting without explicit permission  
+  - Any activities intended for profit or commercial gain  
 
 - **Permission Requests:**  
   If you wish to use the content in ways that fall outside these restrictions, please contact the author directly to request permission.  
@@ -37,21 +30,24 @@ The author referred to in this Terms of Service is **MaiFlava**.
 
 ---
 
-# Licensing & Terms of Service (TOS)
+### **Derived Content**
 
-## Licensing Structure Overview
+1. **License Inheritance:**  
+   Derived content is subject to the license of the original content from which it is derived.  
 
-### 1. Original Work License
-- Any original intellectual property (characters, settings, ideas) remains under its respective owner’s license.
-- Users must comply with the terms set by the original rights holder.
+2. **Additional Licensing:**  
+   Derived content may include its own license, which applies alongside the original content’s license unless specific provisions conflict.  
 
-### 2. Contributor's License (Your Work)
-- Your artistic contributions (style, colors, modifications, composition) are separately licensed under your specified terms.
-- Anyone using your work must follow both the original work's license and your licensing terms.
+3. **Provision-Level Conflict Resolution:**  
+   If a conflict arises between specific provisions of the original and derived content licenses:  
+   - The provision from the original content takes precedence.  
+   - Non-conflicting provisions from both licenses remain valid and enforceable.  
 
-### 3. Content Layering & Compliance
-- Users must acknowledge and accept all applicable licenses before using or redistributing the content.
-- If conflicts arise between different licenses, the strictest terms apply.
+4. **Recursive Derivation:**  
+   If the original content is itself derived from other content, this process repeats recursively until the derivation chain ends.  
+
+5. **Final Authority:**  
+   The final applicable terms are determined by the earliest (or root) original content in the derivation chain, with conflicts resolved as outlined above.
 
 ---
 
@@ -74,8 +70,13 @@ The author referred to in this Terms of Service is **MaiFlava**.
 
 ---
 
+### **Author Information**
+
+The author referred to in this Terms of Service is **MaiFlava**.
+
+---
+
 ### **Contact**
 
 For permissions, questions, or clarifications regarding this Terms of Service, please contact the author directly.
 
-Email: MaiFlava1@gmail.com
