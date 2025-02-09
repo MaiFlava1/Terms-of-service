@@ -14,14 +14,13 @@ By using **the author's content**, you acknowledge and agree to the following te
 
 ---
 
-### **Temporary Restrictions**
+### **Restrictions**
 
-- **No AI or Commercial Use:**\
-  You are **prohibited** from using the author's content for:
+ - **No AI Use:**
+  You are **prohibited** from using the author's content for Artificial Intelligence (AI) training or development purposes.
 
-  - Artificial Intelligence (AI) training or development purposes
-
-  - Any activities intended for profit or commercial gain
+- **No Commercial Use:**
+  You are **prohibited** from using the author's content for any activities intended for profit or commercial gain.
 
 - **Impersonation Prevention:**\
   You are strictly prohibited from impersonating the author, falsely claiming ownership of their content, or misleading others into believing you are the author. Any such actions may result in legal consequences.
@@ -32,8 +31,8 @@ By using **the author's content**, you acknowledge and agree to the following te
 - **Permission Requests:**\
   If you wish to use the content in ways that fall outside these restrictions, please contact the author directly to request permission.
 
-- **Individual Project Licenses:**\
-  If a specific project includes its own license, that project will follow the terms of its individual license in addition to this TOS.
+- **Individual Project Restrictions:**\
+  If a specific project includes its own Restrictions, that project will follow the terms of its individual Restrictions in addition to this TOS.
 
 ---
 
