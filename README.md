@@ -4,6 +4,14 @@ By using **the author's content**, you acknowledge and agree to the following te
 
 ---
 
+### **Author Information**
+
+The author referred to in this Terms of Service is **MaiFlava**.
+For permissions, questions, or clarifications regarding this Terms of Service, please contact the author directly.
+Email : MaiFlava @gmail.com
+
+---
+
 ### **General Terms**
 
 1. **Scope of Use:**\
@@ -76,16 +84,4 @@ By using **the author's content**, you acknowledge and agree to the following te
 
 5. **Third-Party Dependencies:**\
    Some content may reference, include, or rely on third-party libraries, tools, or services. The author is not responsible for any issues, damages, or liabilities arising from the use of such third-party dependencies.
-
----
-
-### **Author Information**
-
-The author referred to in this Terms of Service is **MaiFlava**.
-
----
-
-### **Contact**
-
-For permissions, questions, or clarifications regarding this Terms of Service, please contact the author directly.
 
