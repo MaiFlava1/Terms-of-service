@@ -8,7 +8,7 @@ By using **the author's content**, you acknowledge and agree to the following te
 
 The author referred to in this Terms of Service is **MaiFlava**.\
 For permissions, questions, or clarifications regarding this Terms of Service, please contact the author directly.\
-Email : MaiFlava @gmail.com
+Email : MaiFlava1@gmail.com
 
 ---
 
