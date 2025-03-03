@@ -42,6 +42,9 @@ Email : MaiFlava1@gmail.com
 - **Individual Project Restrictions:**\
   If a specific project includes its own Restrictions, that project will follow the terms of its individual Restrictions in addition to this TOS.
 
+- **Credit (Optional but Appreciated):**  
+  If you use the author's content, crediting the author is not mandatory but would be greatly appreciated.
+
 ---
 
 ### **Derived Content**
